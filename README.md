@@ -1,4 +1,4 @@
-# audio-to-text-script
+# audio-to-text-transcriber
 This script is a universal transcriber powered by OpenAI’s Whisper model. It automatically detects the language of the audio and converts speech into text.
 Features:
 
